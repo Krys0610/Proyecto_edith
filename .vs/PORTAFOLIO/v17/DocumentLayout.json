@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\views\\home\\_listadoproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\_listadoproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\views\\home\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\models\\contactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\models\\contactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Presentacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\_Presentacion.cshtml",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\_Presentacion.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T11:22:08.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gracias.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\Gracias.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\Gracias.cshtml",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\Gracias.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\Gracias.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T04:26:10.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contactos.cs",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Models\\Contactos.cs",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Models\\Contactos.cs",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Models\\Contactos.cs",
+              "RelativeToolTip": "PORTAFOLIO\\Models\\Contactos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:14:25.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contacto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\Contacto.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\Contacto.cshtml",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\Contacto.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\Contacto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T03:34:57.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T03:22:45.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PORTAFOLIO\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIAywCwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:16:58.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_SeccionProyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_SeccionProyectos.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\_SeccionProyectos.cshtml",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_SeccionProyectos.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\_SeccionProyectos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T02:55:00.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ListadoProyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_ListadoProyectos.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\_ListadoProyectos.cshtml",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_ListadoProyectos.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\_ListadoProyectos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T02:56:51.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Proyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\Proyectos.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\Proyectos.cshtml",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\Proyectos.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\Proyectos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T02:47:04.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
